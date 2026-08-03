@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Robin Graven-Milne</title>
+<style>
+  html, body {
+    background: #000;
+    color: #b5d6f5;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+  body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+    line-height: 1.35;
+    padding: 200px 40px 40px 40px;
+    box-sizing: border-box;
+  }
+  a {
+    color: #d63a2f;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: #d63a2f;
+  }
+  p {
+    margin: 0;
+  }
+</style>
+</head>
+<body>
+<p>R&R:R is pleased to offer free subscriptions within the US and Canada. Please submit your name and mailing address to robingravenmilne@gmail.com.</p> 
+<p></p>
+<p>If you would like to support R&R:R, consider the following options:</p>
+<p>$1/issue: covers the cost of stamp</p>
+<p>$2/issue: covers the cost of stamp and printing</p>
+<p>$4/issue: covers you and one other person</p>
+<p>$14/issue: the same except Robin and Rae get $5 each</p>
+<p>$24/issue: the same except Robin and Rae get $10/each</p>
+<p>$104/issue: the same except Robin and Rae get enough groceries for a week</p>
+<p>Buy us a building: we will be able to take the printer out of our closet as well as live above the poverty line</p>
+<p>You can Venmo @robincgm or arrange alternate payment when you send your mailing address. Thank you for your patronage.</p>
+<p><a href="http://www.robingm.net">Go home</a></p>
+</body>
+</html>
